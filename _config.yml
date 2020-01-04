@@ -206,7 +206,7 @@ links_settings:
   layout: block
 
 links:
-  #Title: http://yoursite.com
+  Henry Chu: https://blog.henryhc.net/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
